@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  width: 100%;
+  background-color: #d9c8c3;
+}
+
+nav ul{
+  list-style-type: none;
+  display: inline-block;
+  float: right;
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  font-size: 30px;
+  letter-spacing: 2px;
+  }
+nav ul a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px;
+  margin: 30px;
+
+  }
